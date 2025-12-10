@@ -1,0 +1,16 @@
+.DS_Store
+
+db_data
+postgres_data/
+
+.env
+
+*.log
+logs/
+
+__pycache__/
+venv/
+*.pyc
+
+node_modules/
+
