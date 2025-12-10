@@ -1,6 +1,6 @@
 # TP Docker - Infrastructure Multi-Services Sécurisée
 **Module :** Orchestration & Containerisation (M1 Cybersécurité)  
-**Auteur :** [Ton Nom / Binôme]
+**Auteur :** Haissam / Quentin
 
 ---
 
